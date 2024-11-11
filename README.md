@@ -1,4 +1,4 @@
-# 🌟 Java FullStack Mastery 🌟
+# 🌟 Java Full Stack Mastery 🌟
 
 Welcome to **Java-FullStack-Mastery**! This repository is a comprehensive journey through Java full-stack development, covering everything from the basics to advanced projects and concepts. Perfect for learners and seasoned developers alike, this repository provides code, examples, and extensive documentation for each module, making it easy to follow along and master the skills you need to excel in Java full-stack development.
 
